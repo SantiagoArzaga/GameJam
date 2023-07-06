@@ -2324,3 +2324,12 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.07.06-19.47.57:815][830]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
 [2023.07.06-19.47.57:824][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
 [2023.07.06-19.47.57:847][831]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.07.06-19.48.23:390][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.07.06-19.48.23:392][949]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MenuLevel' took 0.059
+[2023.07.06-19.48.23:393][949]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WB_Settings] ([2] browsable assets)...
+[2023.07.06-19.48.23:400][949]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WB_Settings.WB_Settings]
+[2023.07.06-19.48.23:400][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/WB_Settings]
+[2023.07.06-19.48.23:400][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Settings" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/Autosaves/Game/WB_Settings_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.07.06-19.48.23:433][949]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WB_Settings_Auto1
+[2023.07.06-19.48.23:433][949]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/WB_Settings_Auto115918DAD47F8416199DB1387B0257B5E.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/Autosaves/Game/WB_Settings_Auto1.uasset'
+[2023.07.06-19.48.23:435][949]LogFileHelpers: Auto-saving content packages took 0.042
