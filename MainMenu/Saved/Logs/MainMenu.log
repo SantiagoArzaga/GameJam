@@ -9586,3 +9586,1141 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.07-22.16.08:700][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 19.1 sec)
 [2023.07.07-22.16.08:717][976]AssetCheck: New page: Asset Save: LV_Level1
 [2023.07.07-22.16.08:717][976]LogContentValidation: Display: Validating /Script/Engine.World /Game/LV_Level1.LV_Level1
+[2023.07.07-22.17.52:761][ 20]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/BP_Player.BP_Player
+[2023.07.07-22.17.52:762][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.07-22.17.58:763][302]LogViewport: Scene viewport resized to 1109x593, mode Windowed.
+[2023.07.07-22.18.23:074][476]BlueprintLog: New page: Compile BP_Player
+[2023.07.07-22.18.23:170][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.07.07-22.19.47:432][796]BlueprintLog: New page: Compile BP_Player
+[2023.07.07-22.19.47:547][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.07.07-22.20.01:587][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.20.01:683][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/BP_Player" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset" SILENT=true
+[2023.07.07-22.20.01:686][256]LogSavePackage: Moving output files for package: /Game/Developers/BP_Player
+[2023.07.07-22.20.01:687][256]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_Player0EC46FD94DA06975357ACB8034337649.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset'
+[2023.07.07-22.20.01:697][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 19.2 sec)
+[2023.07.07-22.20.01:710][256]AssetCheck: New page: Asset Save: BP_Player
+[2023.07.07-22.20.01:710][256]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/BP_Player.BP_Player
+[2023.07.07-22.20.18:147][  1]LogSlate: Took 0.004700 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.07.07-22.20.32:717][863]BlueprintLog: New page: Compile BP_Player
+[2023.07.07-22.20.32:829][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.07.07-22.21.10:400][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.21.10:472][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/BP_Player" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset" SILENT=true
+[2023.07.07-22.21.10:476][ 99]LogSavePackage: Moving output files for package: /Game/Developers/BP_Player
+[2023.07.07-22.21.10:477][ 99]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_PlayerF1DB1F4B40BD659FD7D365AB286D3462.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset'
+[2023.07.07-22.21.10:485][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 19.3 sec)
+[2023.07.07-22.21.10:496][ 99]AssetCheck: New page: Asset Save: BP_Player
+[2023.07.07-22.21.10:496][ 99]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/BP_Player.BP_Player
+[2023.07.07-22.21.13:341][268]BlueprintLog: New page: Compile BP_Player
+[2023.07.07-22.21.13:445][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.07.07-22.21.14:206][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.21.14:290][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/BP_Player" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset" SILENT=true
+[2023.07.07-22.21.14:294][306]LogSavePackage: Moving output files for package: /Game/Developers/BP_Player
+[2023.07.07-22.21.14:294][306]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_PlayerA35D6C0C4A67DB055D30AEA88374C1A2.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset'
+[2023.07.07-22.21.14:304][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 19.4 sec)
+[2023.07.07-22.21.14:315][306]AssetCheck: New page: Asset Save: BP_Player
+[2023.07.07-22.21.14:315][306]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/BP_Player.BP_Player
+[2023.07.07-22.22.59:559][505]BlueprintLog: New page: Compile BP_Player
+[2023.07.07-22.22.59:661][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.07.07-22.23.00:122][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.23.00:218][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/BP_Player" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset" SILENT=true
+[2023.07.07-22.23.00:235][525]LogSavePackage: Moving output files for package: /Game/Developers/BP_Player
+[2023.07.07-22.23.00:236][525]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_Player1F19E61449BDA6E566C3F9A690DEE95F.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset'
+[2023.07.07-22.23.00:244][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 19.5 sec)
+[2023.07.07-22.23.00:253][525]AssetCheck: New page: Asset Save: BP_Player
+[2023.07.07-22.23.00:253][525]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/BP_Player.BP_Player
+[2023.07.07-22.23.16:834][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.23.16:922][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/BP_Player" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset" SILENT=true
+[2023.07.07-22.23.16:928][303]LogSavePackage: Moving output files for package: /Game/Developers/BP_Player
+[2023.07.07-22.23.16:929][303]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_Player3E75F4CA42DBDFDD08422A9F72979B59.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset'
+[2023.07.07-22.23.16:940][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 19.6 sec)
+[2023.07.07-22.23.16:954][303]AssetCheck: New page: Asset Save: BP_Player
+[2023.07.07-22.23.16:954][303]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/BP_Player.BP_Player
+[2023.07.07-22.23.36:742][792]BlueprintLog: New page: Compile BP_Player
+[2023.07.07-22.23.36:852][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.07.07-22.24.58:010][194]BlueprintLog: New page: Compile BP_Player
+[2023.07.07-22.24.58:116][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.07.07-22.26.09:031][460]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2023.07.07-22.26.09:037][460]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LV_Level1' took 0.078
+[2023.07.07-22.26.09:038][460]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Developers/BP_Player] ([2] browsable assets)...
+[2023.07.07-22.26.09:089][460]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Developers/BP_Player.BP_Player]
+[2023.07.07-22.26.09:089][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/BP_Player]
+[2023.07.07-22.26.09:097][460]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Developers/BP_Player_Auto3
+[2023.07.07-22.26.09:097][460]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_Player_Auto38513E4F34BFD252350C20D93199A3FC0.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/Autosaves/Game/Developers/BP_Player_Auto3.uasset'
+[2023.07.07-22.26.09:098][460]LogFileHelpers: Auto-saving content packages took 0.060
+[2023.07.07-22.26.47:362][167]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.07-22.26.47:363][167]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.07-22.26.47:363][167]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.07-22.26.50:026][316]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.26.50:076][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/Input/IA_FlyingBullet" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/Input/IA_FlyingBullet.uasset" SILENT=true
+[2023.07.07-22.26.50:078][316]LogSavePackage: Moving output files for package: /Game/Developers/Input/IA_FlyingBullet
+[2023.07.07-22.26.50:079][316]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/IA_FlyingBullet48947C9249DE5B7560D3639A21696539.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/Input/IA_FlyingBullet.uasset'
+[2023.07.07-22.26.50:087][316]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 19.7 sec)
+[2023.07.07-22.26.50:097][316]AssetCheck: New page: Asset Save: IA_FlyingBullet
+[2023.07.07-22.26.50:097][316]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Developers/Input/IA_FlyingBullet.IA_FlyingBullet
+[2023.07.07-22.26.50:488][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.26.50:527][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/Input/IA_FlyingBullet" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/Input/IA_FlyingBullet.uasset" SILENT=true
+[2023.07.07-22.26.50:529][340]LogSavePackage: Moving output files for package: /Game/Developers/Input/IA_FlyingBullet
+[2023.07.07-22.26.50:530][340]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/IA_FlyingBullet5EB3244A4C4DC8DE6EF9128C45C897CC.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/Input/IA_FlyingBullet.uasset'
+[2023.07.07-22.26.50:537][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 19.7 sec)
+[2023.07.07-22.26.50:547][340]AssetCheck: New page: Asset Save: IA_FlyingBullet
+[2023.07.07-22.26.50:547][340]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Developers/Input/IA_FlyingBullet.IA_FlyingBullet
+[2023.07.07-22.27.05:737][132]BlueprintLog: New page: Compile BP_Player
+[2023.07.07-22.27.05:844][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.07.07-22.27.06:289][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.27.06:388][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/BP_Player" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset" SILENT=true
+[2023.07.07-22.27.06:395][151]LogSavePackage: Moving output files for package: /Game/Developers/BP_Player
+[2023.07.07-22.27.06:397][151]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_PlayerE0C68C3F4EC19CA03982218D7D5727D5.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset'
+[2023.07.07-22.27.06:407][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 19.8 sec)
+[2023.07.07-22.27.06:419][151]AssetCheck: New page: Asset Save: BP_Player
+[2023.07.07-22.27.06:419][151]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/BP_Player.BP_Player
+[2023.07.07-22.27.21:791][ 37]BlueprintLog: New page: Compile MainGameMode
+[2023.07.07-22.27.21:887][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.07.07-22.27.22:453][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.27.22:500][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/MainGameMode" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/MainGameMode.uasset" SILENT=true
+[2023.07.07-22.27.22:502][ 66]LogSavePackage: Moving output files for package: /Game/Developers/MainGameMode
+[2023.07.07-22.27.22:503][ 66]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/MainGameModeEBDC1BC240DBB4863C849BB88D47C07E.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/MainGameMode.uasset'
+[2023.07.07-22.27.22:514][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 19.9 sec)
+[2023.07.07-22.27.22:522][ 66]AssetCheck: New page: Asset Save: MainGameMode
+[2023.07.07-22.27.22:522][ 66]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/MainGameMode.MainGameMode
+[2023.07.07-22.27.23:650][123]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.07-22.27.23:656][123]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.07.07-22.27.23:657][123]LogPlayLevel: [PlayLevel] Compiling BP_Main before play...
+[2023.07.07-22.27.23:800][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.07.07-22.27.23:804][123]LogPlayLevel: PlayLevel: Blueprint regeneration took 147 ms (1 blueprints)
+[2023.07.07-22.27.23:804][123]PIE: New page: PIE session: LV_Level1 (Jul 7, 2023, 11:27:23 AM)
+[2023.07.07-22.27.23:804][123]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LV_Level1
+[2023.07.07-22.27.23:806][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001929s)
+[2023.07.07-22.27.23:806][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LV_Level1.LV_Level1 to /Game/UEDPIE_0_LV_Level1.LV_Level1 (0.001963s)
+[2023.07.07-22.27.23:806][123]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.07-22.27.23:806][123]LogAIModule: Creating AISystem for world LV_Level1
+[2023.07.07-22.27.23:807][123]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2023.07.07-22.27.23:875][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.07.07-22.27.23:878][123]LogAudio: Display: Creating Audio Device:                 Id: 89, Scope: Unique, Realtime: True
+[2023.07.07-22.27.23:878][123]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-22.27.23:878][123]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-22.27.23:878][123]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-22.27.23:878][123]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-22.27.23:878][123]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.07-22.27.23:878][123]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.07-22.27.23:878][123]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.07-22.27.23:878][123]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-22.27.23:878][123]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-22.27.23:879][123]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-22.27.23:879][123]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-22.27.23:881][123]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.07-22.27.23:915][123]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.07.07-22.27.23:915][123]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-22.27.23:915][123]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-22.27.23:915][123]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-22.27.23:917][123]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=89
+[2023.07.07-22.27.23:917][123]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=89
+[2023.07.07-22.27.23:919][123]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=89
+[2023.07.07-22.27.23:919][123]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=89
+[2023.07.07-22.27.23:919][123]LogInit: FAudioDevice initialized.
+[2023.07.07-22.27.23:919][123]LogAudio: Display: Audio Device (ID: 89) registered with world 'LV_Level1'.
+[2023.07.07-22.27.23:923][123]LogLoad: Game class is 'MainGameMode_C'
+[2023.07.07-22.27.23:923][123]LogWorld: Bringing World /Game/UEDPIE_0_LV_Level1.LV_Level1 up for play (max tick rate 60) at 2023.07.07-16.27.23
+[2023.07.07-22.27.23:923][123]LogWorld: Bringing up level for play took: 0.000663
+[2023.07.07-22.27.23:925][123]LogOnline: OSS: Created online subsystem instance for: :Context_103
+[2023.07.07-22.27.23:926][123]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.07-22.27.23:926][123]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.07-22.27.23:926][123]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.07-22.27.23:938][123]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.07-22.27.23:938][123]PIE: Server logged in
+[2023.07.07-22.27.23:939][123]PIE: Play in editor total start time 0.282 seconds.
+[2023.07.07-22.27.31:408][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-22.27.31:408][406]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LV_Level1
+[2023.07.07-22.27.31:408][406]LogWorld: UWorld::CleanupWorld for LV_Level1, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-22.27.31:408][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.27.31:414][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-22.27.31:422][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.27.31:488][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-22.27.31:489][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89
+[2023.07.07-22.27.31:491][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89
+[2023.07.07-22.27.31:499][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.07.07-22.27.31:612][407]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2023.07.07-22.27.35:625][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.27.35:678][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LV_Level1" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/LV_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.07-22.27.35:750][496]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.07.07-22.27.35:760][496]LogSavePackage: Moving output files for package: /Game/LV_Level1
+[2023.07.07-22.27.35:760][496]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/LV_Level12E316D974231EBD227F5619CC82007C0.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/LV_Level1.umap'
+[2023.07.07-22.27.35:770][496]LogFileHelpers: Saving map 'LV_Level1' took 0.092
+[2023.07.07-22.27.35:784][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 20.0 sec)
+[2023.07.07-22.27.35:796][496]AssetCheck: New page: Asset Save: LV_Level1
+[2023.07.07-22.27.35:796][496]LogContentValidation: Display: Validating /Script/Engine.World /Game/LV_Level1.LV_Level1
+[2023.07.07-22.27.45:943][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.27.46:002][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/BP_Player" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset" SILENT=true
+[2023.07.07-22.27.46:010][ 75]LogSavePackage: Moving output files for package: /Game/Developers/BP_Player
+[2023.07.07-22.27.46:010][ 75]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_Player526436A8447EEB0EC9EA508DECFB4D35.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset'
+[2023.07.07-22.27.46:019][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 20.1 sec)
+[2023.07.07-22.27.46:028][ 75]AssetCheck: New page: Asset Save: BP_Player
+[2023.07.07-22.27.46:028][ 75]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/BP_Player.BP_Player
+[2023.07.07-22.28.15:118][807]BlueprintLog: New page: Compile BP_Player
+[2023.07.07-22.28.15:225][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.07.07-22.28.16:163][833]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.07-22.28.16:171][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-22.28.16:171][833]PIE: New page: PIE session: LV_Level1 (Jul 7, 2023, 11:28:16 AM)
+[2023.07.07-22.28.16:198][833]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LV_Level1
+[2023.07.07-22.28.16:200][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002353s)
+[2023.07.07-22.28.16:200][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LV_Level1.LV_Level1 to /Game/UEDPIE_0_LV_Level1.LV_Level1 (0.002411s)
+[2023.07.07-22.28.16:201][833]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.07-22.28.16:201][833]LogAIModule: Creating AISystem for world LV_Level1
+[2023.07.07-22.28.16:201][833]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2023.07.07-22.28.16:292][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.07.07-22.28.16:297][833]LogAudio: Display: Creating Audio Device:                 Id: 90, Scope: Unique, Realtime: True
+[2023.07.07-22.28.16:297][833]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-22.28.16:297][833]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-22.28.16:297][833]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-22.28.16:297][833]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-22.28.16:297][833]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.07-22.28.16:297][833]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.07-22.28.16:297][833]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.07-22.28.16:297][833]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-22.28.16:297][833]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-22.28.16:297][833]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-22.28.16:297][833]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-22.28.16:313][833]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.07-22.28.16:362][833]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.07.07-22.28.16:362][833]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-22.28.16:362][833]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-22.28.16:362][833]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-22.28.16:365][833]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=90
+[2023.07.07-22.28.16:365][833]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=90
+[2023.07.07-22.28.16:367][833]LogInit: FAudioDevice initialized.
+[2023.07.07-22.28.16:367][833]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=90
+[2023.07.07-22.28.16:367][833]LogAudio: Display: Audio Device (ID: 90) registered with world 'LV_Level1'.
+[2023.07.07-22.28.16:367][833]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=90
+[2023.07.07-22.28.16:371][833]LogLoad: Game class is 'MainGameMode_C'
+[2023.07.07-22.28.16:372][833]LogWorld: Bringing World /Game/UEDPIE_0_LV_Level1.LV_Level1 up for play (max tick rate 60) at 2023.07.07-16.28.16
+[2023.07.07-22.28.16:372][833]LogWorld: Bringing up level for play took: 0.000832
+[2023.07.07-22.28.16:376][833]LogOnline: OSS: Created online subsystem instance for: :Context_104
+[2023.07.07-22.28.16:376][833]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.07-22.28.16:376][833]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.07-22.28.16:376][833]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.07-22.28.16:378][833]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.07-22.28.16:378][833]PIE: Server logged in
+[2023.07.07-22.28.16:379][833]PIE: Play in editor total start time 0.208 seconds.
+[2023.07.07-22.28.18:634][864]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.18:651][865]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.18:668][866]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.18:684][867]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.18:701][868]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.18:718][869]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.18:734][870]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.18:752][871]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.18:768][872]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.18:784][873]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.18:801][874]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.18:818][875]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.18:835][876]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.18:851][877]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.18:868][878]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.18:885][879]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.18:901][880]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.19:151][895]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.19:168][896]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.19:185][897]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.19:201][898]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.19:218][899]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.19:235][900]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.19:251][901]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.19:267][902]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.19:285][903]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.19:301][904]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.19:318][905]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.19:334][906]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.19:351][907]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.19:368][908]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.19:485][915]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:501][916]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:518][917]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:534][918]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:551][919]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:568][920]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:585][921]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:601][922]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:618][923]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:635][924]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:652][925]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:668][926]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:685][927]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:701][928]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:718][929]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:735][930]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:752][931]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:768][932]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:785][933]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:801][934]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:818][935]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:835][936]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:851][937]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:867][938]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:884][939]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:901][940]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.19:918][941]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:167][956]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:185][957]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:201][958]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:218][959]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:234][960]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:251][961]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:268][962]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:285][963]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:301][964]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:318][965]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:335][966]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:351][967]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:368][968]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:385][969]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:401][970]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:752][991]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:768][992]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:785][993]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:801][994]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:818][995]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:834][996]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:851][997]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:868][998]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:884][999]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:902][  0]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:918][  1]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:935][  2]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:952][  3]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:968][  4]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.20:985][  5]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.21:002][  6]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.21:019][  7]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.21:035][  8]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.21:051][  9]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.21:068][ 10]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.21:085][ 11]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.21:285][ 23]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.21:302][ 24]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.21:318][ 25]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.21:335][ 26]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.21:351][ 27]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.21:368][ 28]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.21:385][ 29]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.21:402][ 30]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.21:418][ 31]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.21:435][ 32]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.21:452][ 33]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.22:669][106]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.22:684][107]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.22:701][108]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.22:718][109]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.22:734][110]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.22:751][111]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.22:768][112]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.22:785][113]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.22:868][118]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.22:884][119]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.22:901][120]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.22:918][121]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.23:019][127]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.23:035][128]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.23:052][129]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.23:069][130]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.23:085][131]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.23:169][136]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.23:185][137]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.23:201][138]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.23:218][139]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.23:234][140]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.23:251][141]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.23:268][142]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.23:335][146]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.23:351][147]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.23:368][148]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.23:385][149]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.23:401][150]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.23:418][151]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.23:434][152]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.23:452][153]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.23:468][154]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.23:934][182]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.23:951][183]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.23:968][184]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.23:985][185]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.24:002][186]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.24:018][187]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.24:034][188]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.24:051][189]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.24:518][217]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.24:535][218]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.24:552][219]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.24:568][220]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.24:585][221]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.24:601][222]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.24:618][223]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.24:735][230]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.24:751][231]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.24:768][232]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.24:785][233]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.24:801][234]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.24:919][241]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.24:934][242]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.24:951][243]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.24:968][244]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.24:984][245]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.25:218][259]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.25:234][260]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.25:252][261]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.25:268][262]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.25:285][263]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.25:402][270]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.25:418][271]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.25:435][272]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.25:452][273]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.25:468][274]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.25:569][280]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.25:585][281]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.25:602][282]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.25:618][283]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.25:635][284]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.25:802][294]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.25:819][295]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.25:834][296]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.25:852][297]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.25:868][298]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:002][306]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.26:018][307]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.26:035][308]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.26:052][309]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.26:202][318]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:218][319]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:235][320]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:252][321]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:268][322]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:285][323]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:302][324]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:485][335]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.26:502][336]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.26:518][337]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.26:534][338]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.26:552][339]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.26:669][346]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:684][347]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:701][348]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:718][349]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:735][350]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:752][351]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:769][352]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:785][353]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:802][354]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:818][355]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:835][356]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:852][357]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:868][358]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:885][359]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:901][360]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:918][361]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:935][362]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.26:952][363]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.27:202][378]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.27:218][379]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.27:235][380]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.27:252][381]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.27:268][382]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.27:285][383]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.27:302][384]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.27:402][390]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.27:418][391]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.27:435][392]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.27:452][393]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.27:468][394]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.27:485][395]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.27:685][407]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.27:702][408]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.27:718][409]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.27:734][410]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.27:752][411]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.27:769][412]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.27:919][421]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.27:935][422]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.27:952][423]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.27:968][424]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.27:985][425]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.28:002][426]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.28:285][443]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.28:302][444]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.28:318][445]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.28:335][446]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.28:352][447]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.28:368][448]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.28:385][449]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.28:569][460]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.28:585][461]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.28:602][462]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.28:618][463]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.28:635][464]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.28:652][465]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.28:770][472]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.28:785][473]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.28:802][474]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.28:819][475]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.28:835][476]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.28:969][484]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.28:985][485]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.29:002][486]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.29:018][487]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.29:035][488]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.29:052][489]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.29:068][490]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.29:085][491]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.29:203][498]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.29:219][499]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.29:235][500]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.29:251][501]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.29:268][502]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.29:286][503]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.29:419][511]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.29:435][512]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.29:451][513]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.29:469][514]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.29:486][515]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.29:502][516]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.29:635][524]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.29:651][525]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.29:668][526]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.29:685][527]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.29:702][528]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.29:802][534]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.29:818][535]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.29:835][536]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.29:851][537]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.29:868][538]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.30:585][581]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.30:602][582]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.30:618][583]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.30:635][584]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.30:652][585]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.30:668][586]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.30:802][594]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.30:818][595]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.30:835][596]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.30:852][597]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.30:868][598]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.30:885][599]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.30:901][600]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.30:918][601]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.32:402][690]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.32:418][691]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.32:435][692]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.32:452][693]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.32:468][694]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.32:485][695]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.32:502][696]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.32:518][697]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.32:619][703]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.32:635][704]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.32:652][705]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.32:669][706]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.32:685][707]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.32:702][708]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.32:719][709]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.32:735][710]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.32:752][711]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.32:835][716]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.32:852][717]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.32:869][718]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.32:885][719]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.32:902][720]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.32:919][721]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.33:019][727]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.33:035][728]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.33:052][729]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.33:069][730]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.33:085][731]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.33:186][737]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.33:202][738]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.33:218][739]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.33:235][740]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.33:252][741]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.33:369][748]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.33:385][749]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.33:402][750]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.33:419][751]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.33:435][752]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.33:452][753]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.33:468][754]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.33:485][755]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.33:568][760]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.33:585][761]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.33:602][762]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.33:619][763]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.33:635][764]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.33:652][765]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.33:668][766]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.33:686][767]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.33:769][772]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.33:786][773]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.33:802][774]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.33:819][775]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.33:835][776]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.33:919][781]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.33:936][782]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.33:952][783]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.33:968][784]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.33:985][785]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.34:001][786]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.34:018][787]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.34:102][792]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.34:119][793]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.34:135][794]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.34:152][795]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.34:218][799]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.34:235][800]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.34:252][801]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.34:269][802]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.34:285][803]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2023.07.07-22.28.34:352][807]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.34:368][808]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.34:385][809]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.34:402][810]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2023.07.07-22.28.36:028][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-22.28.36:028][906]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LV_Level1
+[2023.07.07-22.28.36:029][906]LogWorld: UWorld::CleanupWorld for LV_Level1, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-22.28.36:029][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.28.36:033][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-22.28.36:044][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.28.36:113][906]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.07-22.28.36:113][906]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
+[2023.07.07-22.28.36:115][906]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
+[2023.07.07-22.28.36:120][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-22.28.36:123][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.07.07-22.28.36:221][907]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2023.07.07-22.28.39:241][988]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.28.39:292][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LV_Level1" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/LV_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.07-22.28.39:371][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.07.07-22.28.39:380][988]LogSavePackage: Moving output files for package: /Game/LV_Level1
+[2023.07.07-22.28.39:381][988]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/LV_Level1DCEF8B9F42AF9F76B50E0D9E379AD2D1.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/LV_Level1.umap'
+[2023.07.07-22.28.39:388][988]LogFileHelpers: Saving map 'LV_Level1' took 0.097
+[2023.07.07-22.28.39:402][988]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 20.3 sec)
+[2023.07.07-22.28.39:413][988]AssetCheck: New page: Asset Save: LV_Level1
+[2023.07.07-22.28.39:413][988]LogContentValidation: Display: Validating /Script/Engine.World /Game/LV_Level1.LV_Level1
+[2023.07.07-22.29.12:105][843]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.29.12:153][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LV_Level1" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/LV_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.07-22.29.12:241][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.07.07-22.29.12:252][843]LogSavePackage: Moving output files for package: /Game/LV_Level1
+[2023.07.07-22.29.12:253][843]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/LV_Level170F56808457396721996A7B48DA7C923.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/LV_Level1.umap'
+[2023.07.07-22.29.12:265][843]LogFileHelpers: Saving map 'LV_Level1' took 0.112
+[2023.07.07-22.29.12:282][843]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 20.5 sec)
+[2023.07.07-22.29.12:295][843]AssetCheck: New page: Asset Save: LV_Level1
+[2023.07.07-22.29.12:295][843]LogContentValidation: Display: Validating /Script/Engine.World /Game/LV_Level1.LV_Level1
+[2023.07.07-22.29.13:039][877]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.29.13:090][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LV_Level1" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/LV_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.07-22.29.13:173][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.07.07-22.29.13:184][877]LogSavePackage: Moving output files for package: /Game/LV_Level1
+[2023.07.07-22.29.13:184][877]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/LV_Level1A41424A84609F0CA80843B877ECA294F.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/LV_Level1.umap'
+[2023.07.07-22.29.13:194][877]LogFileHelpers: Saving map 'LV_Level1' took 0.105
+[2023.07.07-22.29.13:212][877]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 20.6 sec)
+[2023.07.07-22.29.13:222][877]AssetCheck: New page: Asset Save: LV_Level1
+[2023.07.07-22.29.13:222][877]LogContentValidation: Display: Validating /Script/Engine.World /Game/LV_Level1.LV_Level1
+[2023.07.07-22.29.39:068][413]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.29.39:125][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LV_Level1" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/LV_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.07-22.29.39:220][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.07.07-22.29.39:232][413]LogSavePackage: Moving output files for package: /Game/LV_Level1
+[2023.07.07-22.29.39:233][413]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/LV_Level14B8A3FE040AF31A32E95BBA44723A2C7.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/LV_Level1.umap'
+[2023.07.07-22.29.39:243][413]LogFileHelpers: Saving map 'LV_Level1' took 0.119
+[2023.07.07-22.29.39:254][413]LogFileHelpers: InternalPromptForCheckoutAndSave took 185 ms (total: 20.8 sec)
+[2023.07.07-22.29.39:267][413]AssetCheck: New page: Asset Save: LV_Level1
+[2023.07.07-22.29.39:267][413]LogContentValidation: Display: Validating /Script/Engine.World /Game/LV_Level1.LV_Level1
+[2023.07.07-22.29.42:331][592]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-22.29.42:331][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.29.46:541][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.29.46:641][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/BP_Player" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset" SILENT=true
+[2023.07.07-22.29.46:649][813]LogSavePackage: Moving output files for package: /Game/Developers/BP_Player
+[2023.07.07-22.29.46:650][813]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_Player0F8643674F049EF7E1AAA382F4554D64.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset'
+[2023.07.07-22.29.46:661][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 20.9 sec)
+[2023.07.07-22.29.46:676][813]AssetCheck: New page: Asset Save: BP_Player
+[2023.07.07-22.29.46:676][813]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/BP_Player.BP_Player
+[2023.07.07-22.30.45:641][157]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.30.45:746][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/BP_Player" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset" SILENT=true
+[2023.07.07-22.30.45:754][157]LogSavePackage: Moving output files for package: /Game/Developers/BP_Player
+[2023.07.07-22.30.45:755][157]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_Player50D4880743B311315CD2739175CF6FCF.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset'
+[2023.07.07-22.30.45:765][157]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 21.1 sec)
+[2023.07.07-22.30.45:780][157]AssetCheck: New page: Asset Save: BP_Player
+[2023.07.07-22.30.45:780][157]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/BP_Player.BP_Player
+[2023.07.07-22.30.46:460][198]BlueprintLog: New page: Compile BP_Player
+[2023.07.07-22.30.46:635][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.07.07-22.30.47:148][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.30.47:214][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/BP_Player" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset" SILENT=true
+[2023.07.07-22.30.47:224][220]LogSavePackage: Moving output files for package: /Game/Developers/BP_Player
+[2023.07.07-22.30.47:225][220]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_Player0FB39F704250D933C53B998C8A7087F6.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset'
+[2023.07.07-22.30.47:235][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 21.1 sec)
+[2023.07.07-22.30.47:246][220]AssetCheck: New page: Asset Save: BP_Player
+[2023.07.07-22.30.47:246][220]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/BP_Player.BP_Player
+[2023.07.07-22.31.41:871][375]LogDerivedDataCache: C:/Users/santi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:27.233 and deleted 0 files with total size 0 MiB. Scanned 14512 files in 13796 folders with total size 833 MiB.
+[2023.07.07-22.33.11:572][493]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.33.11:661][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/BP_Player" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset" SILENT=true
+[2023.07.07-22.33.11:670][493]LogSavePackage: Moving output files for package: /Game/Developers/BP_Player
+[2023.07.07-22.33.11:671][493]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_PlayerC7E0376545248793797CF4893E80E01A.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset'
+[2023.07.07-22.33.11:683][493]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 21.3 sec)
+[2023.07.07-22.33.11:691][493]AssetCheck: New page: Asset Save: BP_Player
+[2023.07.07-22.33.11:691][493]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/BP_Player.BP_Player
+[2023.07.07-22.33.40:527][193]BlueprintLog: New page: Compile BP_Player
+[2023.07.07-22.33.40:718][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.07.07-22.33.41:188][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.33.41:264][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/BP_Player" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset" SILENT=true
+[2023.07.07-22.33.41:274][211]LogSavePackage: Moving output files for package: /Game/Developers/BP_Player
+[2023.07.07-22.33.41:274][211]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_Player51A9C69C47DAAC5FE99D9C8A12DD1510.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset'
+[2023.07.07-22.33.41:285][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 21.4 sec)
+[2023.07.07-22.33.41:294][211]AssetCheck: New page: Asset Save: BP_Player
+[2023.07.07-22.33.41:294][211]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/BP_Player.BP_Player
+[2023.07.07-22.35.09:459][333]BlueprintLog: New page: Compile BP_Player
+[2023.07.07-22.35.09:577][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.07.07-22.35.10:202][358]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.35.10:262][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/BP_Player" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset" SILENT=true
+[2023.07.07-22.35.10:273][358]LogSavePackage: Moving output files for package: /Game/Developers/BP_Player
+[2023.07.07-22.35.10:274][358]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_Player49AA72094EAB72C6DA7C1D830049E417.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset'
+[2023.07.07-22.35.10:285][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 21.4 sec)
+[2023.07.07-22.35.10:295][358]AssetCheck: New page: Asset Save: BP_Player
+[2023.07.07-22.35.10:295][358]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/BP_Player.BP_Player
+[2023.07.07-22.36.37:032][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.36.37:117][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/BP_Player" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset" SILENT=true
+[2023.07.07-22.36.37:128][830]LogSavePackage: Moving output files for package: /Game/Developers/BP_Player
+[2023.07.07-22.36.37:129][830]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_Player90481C584355DB1A66A6EFAD3BA1B268.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset'
+[2023.07.07-22.36.37:139][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 21.5 sec)
+[2023.07.07-22.36.37:150][830]AssetCheck: New page: Asset Save: BP_Player
+[2023.07.07-22.36.37:150][830]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/BP_Player.BP_Player
+[2023.07.07-22.36.38:761][925]BlueprintLog: New page: Compile BP_Player
+[2023.07.07-22.36.38:847][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.07.07-22.36.39:674][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.36.39:757][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/BP_Player" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset" SILENT=true
+[2023.07.07-22.36.39:769][964]LogSavePackage: Moving output files for package: /Game/Developers/BP_Player
+[2023.07.07-22.36.39:770][964]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_Player43F11FDD4B5589F9A84215AB1BAE0F9D.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset'
+[2023.07.07-22.36.39:780][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 21.7 sec)
+[2023.07.07-22.36.39:789][964]AssetCheck: New page: Asset Save: BP_Player
+[2023.07.07-22.36.39:789][964]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/BP_Player.BP_Player
+[2023.07.07-22.36.44:508][240]BlueprintLog: New page: Compile BP_Player
+[2023.07.07-22.36.44:602][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.07.07-22.36.45:095][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.36.45:170][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/BP_Player" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset" SILENT=true
+[2023.07.07-22.36.45:182][254]LogSavePackage: Moving output files for package: /Game/Developers/BP_Player
+[2023.07.07-22.36.45:182][254]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_Player1DDC77784B2F7790126C9489E03822B7.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset'
+[2023.07.07-22.36.45:192][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 21.7 sec)
+[2023.07.07-22.36.45:205][254]AssetCheck: New page: Asset Save: BP_Player
+[2023.07.07-22.36.45:205][254]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/BP_Player.BP_Player
+[2023.07.07-22.36.46:337][298]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.07-22.36.46:345][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-22.36.46:345][298]PIE: New page: PIE session: LV_Level1 (Jul 7, 2023, 11:36:46 AM)
+[2023.07.07-22.36.46:346][298]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LV_Level1
+[2023.07.07-22.36.46:347][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001895s)
+[2023.07.07-22.36.46:347][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LV_Level1.LV_Level1 to /Game/UEDPIE_0_LV_Level1.LV_Level1 (0.001938s)
+[2023.07.07-22.36.46:347][298]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.07-22.36.46:348][298]LogAIModule: Creating AISystem for world LV_Level1
+[2023.07.07-22.36.46:348][298]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2023.07.07-22.36.46:409][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.07.07-22.36.46:416][298]LogAudio: Display: Creating Audio Device:                 Id: 91, Scope: Unique, Realtime: True
+[2023.07.07-22.36.46:416][298]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-22.36.46:416][298]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-22.36.46:416][298]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-22.36.46:416][298]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-22.36.46:416][298]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.07-22.36.46:416][298]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.07-22.36.46:416][298]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.07-22.36.46:416][298]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-22.36.46:417][298]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-22.36.46:417][298]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-22.36.46:417][298]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-22.36.46:419][298]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.07-22.36.46:457][298]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.07.07-22.36.46:457][298]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-22.36.46:457][298]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-22.36.46:458][298]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-22.36.46:458][298]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=91
+[2023.07.07-22.36.46:458][298]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=91
+[2023.07.07-22.36.46:461][298]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=91
+[2023.07.07-22.36.46:461][298]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=91
+[2023.07.07-22.36.46:461][298]LogInit: FAudioDevice initialized.
+[2023.07.07-22.36.46:461][298]LogAudio: Display: Audio Device (ID: 91) registered with world 'LV_Level1'.
+[2023.07.07-22.36.46:465][298]LogLoad: Game class is 'MainGameMode_C'
+[2023.07.07-22.36.46:465][298]LogWorld: Bringing World /Game/UEDPIE_0_LV_Level1.LV_Level1 up for play (max tick rate 60) at 2023.07.07-16.36.46
+[2023.07.07-22.36.46:465][298]LogWorld: Bringing up level for play took: 0.000751
+[2023.07.07-22.36.46:469][298]LogOnline: OSS: Created online subsystem instance for: :Context_105
+[2023.07.07-22.36.46:470][298]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.07-22.36.46:470][298]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.07-22.36.46:470][298]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.07-22.36.46:471][298]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.07-22.36.46:471][298]PIE: Server logged in
+[2023.07.07-22.36.46:472][298]PIE: Play in editor total start time 0.127 seconds.
+[2023.07.07-22.36.56:188][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-22.36.56:188][683]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LV_Level1
+[2023.07.07-22.36.56:188][683]LogWorld: UWorld::CleanupWorld for LV_Level1, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-22.36.56:188][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.36.56:192][683]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-22.36.56:200][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.36.56:253][683]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.07-22.36.56:253][683]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
+[2023.07.07-22.36.56:255][683]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
+[2023.07.07-22.36.56:262][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-22.36.56:264][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.07.07-22.36.56:373][684]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2023.07.07-22.36.58:615][741]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.36.58:658][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LV_Level1" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/LV_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.07-22.36.58:714][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.07.07-22.36.58:723][741]LogSavePackage: Moving output files for package: /Game/LV_Level1
+[2023.07.07-22.36.58:724][741]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/LV_Level116F6B0794E3E73C210CA528376F2FA99.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/LV_Level1.umap'
+[2023.07.07-22.36.58:732][741]LogFileHelpers: Saving map 'LV_Level1' took 0.075
+[2023.07.07-22.36.58:744][741]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 21.9 sec)
+[2023.07.07-22.36.58:752][741]AssetCheck: New page: Asset Save: LV_Level1
+[2023.07.07-22.36.58:753][741]LogContentValidation: Display: Validating /Script/Engine.World /Game/LV_Level1.LV_Level1
+[2023.07.07-22.42.23:076][144]BlueprintLog: New page: Compile BP_Player
+[2023.07.07-22.42.23:163][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.07.07-22.42.23:753][159]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.42.23:806][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/BP_Player" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset" SILENT=true
+[2023.07.07-22.42.23:828][159]LogSavePackage: Moving output files for package: /Game/Developers/BP_Player
+[2023.07.07-22.42.23:829][159]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_Player166CCF85416C52FF9FBC60BE9D1681BB.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset'
+[2023.07.07-22.42.23:837][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 22.0 sec)
+[2023.07.07-22.42.23:847][159]AssetCheck: New page: Asset Save: BP_Player
+[2023.07.07-22.42.23:847][159]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/BP_Player.BP_Player
+[2023.07.07-22.42.24:712][207]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.07-22.42.24:719][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-22.42.24:719][207]PIE: New page: PIE session: LV_Level1 (Jul 7, 2023, 11:42:24 AM)
+[2023.07.07-22.42.24:720][207]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LV_Level1
+[2023.07.07-22.42.24:721][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002026s)
+[2023.07.07-22.42.24:721][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LV_Level1.LV_Level1 to /Game/UEDPIE_0_LV_Level1.LV_Level1 (0.002061s)
+[2023.07.07-22.42.24:721][207]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.07-22.42.24:721][207]LogAIModule: Creating AISystem for world LV_Level1
+[2023.07.07-22.42.24:722][207]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2023.07.07-22.42.24:780][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.07.07-22.42.24:786][207]LogAudio: Display: Creating Audio Device:                 Id: 92, Scope: Unique, Realtime: True
+[2023.07.07-22.42.24:786][207]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-22.42.24:786][207]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-22.42.24:786][207]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-22.42.24:786][207]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-22.42.24:786][207]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.07-22.42.24:786][207]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.07-22.42.24:786][207]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.07-22.42.24:786][207]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-22.42.24:787][207]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-22.42.24:787][207]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-22.42.24:787][207]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-22.42.24:789][207]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.07-22.42.24:823][207]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.07.07-22.42.24:823][207]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-22.42.24:823][207]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-22.42.24:823][207]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-22.42.24:825][207]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=92
+[2023.07.07-22.42.24:825][207]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=92
+[2023.07.07-22.42.24:827][207]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=92
+[2023.07.07-22.42.24:827][207]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=92
+[2023.07.07-22.42.24:827][207]LogInit: FAudioDevice initialized.
+[2023.07.07-22.42.24:827][207]LogAudio: Display: Audio Device (ID: 92) registered with world 'LV_Level1'.
+[2023.07.07-22.42.24:830][207]LogLoad: Game class is 'MainGameMode_C'
+[2023.07.07-22.42.24:831][207]LogWorld: Bringing World /Game/UEDPIE_0_LV_Level1.LV_Level1 up for play (max tick rate 60) at 2023.07.07-16.42.24
+[2023.07.07-22.42.24:831][207]LogWorld: Bringing up level for play took: 0.000697
+[2023.07.07-22.42.24:834][207]LogOnline: OSS: Created online subsystem instance for: :Context_106
+[2023.07.07-22.42.24:834][207]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.07-22.42.24:834][207]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.07-22.42.24:834][207]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.07-22.42.24:835][207]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.07-22.42.24:836][207]PIE: Server logged in
+[2023.07.07-22.42.24:836][207]PIE: Play in editor total start time 0.118 seconds.
+[2023.07.07-22.42.31:118][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-22.42.31:118][301]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LV_Level1
+[2023.07.07-22.42.31:118][301]LogWorld: UWorld::CleanupWorld for LV_Level1, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-22.42.31:118][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.42.31:123][301]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-22.42.31:131][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.42.31:186][301]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.07-22.42.31:186][301]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=92
+[2023.07.07-22.42.31:188][301]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=92
+[2023.07.07-22.42.31:193][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-22.42.31:195][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.07.07-22.42.31:261][302]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2023.07.07-22.42.39:339][569]Cmd: TRANSACTION UNDO
+[2023.07.07-22.42.39:350][569]LogEditorTransaction: Undo Move Elements
+[2023.07.07-22.42.42:971][752]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.07.07-22.42.46:269][941]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.07.07-22.42.49:026][ 88]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.07.07-22.42.50:215][155]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.07-22.42.50:223][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-22.42.50:223][155]PIE: New page: PIE session: LV_Level1 (Jul 7, 2023, 11:42:50 AM)
+[2023.07.07-22.42.50:223][155]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LV_Level1
+[2023.07.07-22.42.50:225][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001810s)
+[2023.07.07-22.42.50:225][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LV_Level1.LV_Level1 to /Game/UEDPIE_0_LV_Level1.LV_Level1 (0.001846s)
+[2023.07.07-22.42.50:225][155]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.07-22.42.50:225][155]LogAIModule: Creating AISystem for world LV_Level1
+[2023.07.07-22.42.50:225][155]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2023.07.07-22.42.50:293][155]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.07.07-22.42.50:297][155]LogAudio: Display: Creating Audio Device:                 Id: 93, Scope: Unique, Realtime: True
+[2023.07.07-22.42.50:297][155]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-22.42.50:297][155]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-22.42.50:297][155]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-22.42.50:297][155]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-22.42.50:297][155]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.07-22.42.50:297][155]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.07-22.42.50:297][155]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.07-22.42.50:297][155]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-22.42.50:297][155]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-22.42.50:297][155]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-22.42.50:297][155]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-22.42.50:300][155]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.07-22.42.50:340][155]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.07.07-22.42.50:341][155]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-22.42.50:341][155]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-22.42.50:341][155]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-22.42.50:345][155]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=93
+[2023.07.07-22.42.50:345][155]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=93
+[2023.07.07-22.42.50:347][155]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=93
+[2023.07.07-22.42.50:347][155]LogInit: FAudioDevice initialized.
+[2023.07.07-22.42.50:347][155]LogAudio: Display: Audio Device (ID: 93) registered with world 'LV_Level1'.
+[2023.07.07-22.42.50:347][155]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=93
+[2023.07.07-22.42.50:350][155]LogLoad: Game class is 'MainGameMode_C'
+[2023.07.07-22.42.50:351][155]LogWorld: Bringing World /Game/UEDPIE_0_LV_Level1.LV_Level1 up for play (max tick rate 60) at 2023.07.07-16.42.50
+[2023.07.07-22.42.50:351][155]LogWorld: Bringing up level for play took: 0.000676
+[2023.07.07-22.42.50:353][155]LogOnline: OSS: Created online subsystem instance for: :Context_107
+[2023.07.07-22.42.50:354][155]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.07-22.42.50:354][155]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.07-22.42.50:354][155]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.07-22.42.50:355][155]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.07-22.42.50:355][155]PIE: Server logged in
+[2023.07.07-22.42.50:355][155]PIE: Play in editor total start time 0.133 seconds.
+[2023.07.07-22.43.13:257][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-22.43.13:257][344]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LV_Level1
+[2023.07.07-22.43.13:257][344]LogWorld: UWorld::CleanupWorld for LV_Level1, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-22.43.13:257][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.43.13:263][344]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-22.43.13:270][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.43.13:323][344]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.07-22.43.13:323][344]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93
+[2023.07.07-22.43.13:325][344]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93
+[2023.07.07-22.43.13:332][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-22.43.13:334][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.07.07-22.43.13:430][345]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2023.07.07-22.43.19:529][630]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.43.19:572][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LV_Level1" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/LV_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.07-22.43.19:632][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.07.07-22.43.19:642][630]LogSavePackage: Moving output files for package: /Game/LV_Level1
+[2023.07.07-22.43.19:643][630]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/LV_Level19F54D4A24559D686D2430A92546B2B1F.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/LV_Level1.umap'
+[2023.07.07-22.43.19:651][630]LogFileHelpers: Saving map 'LV_Level1' took 0.080
+[2023.07.07-22.43.19:665][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 22.1 sec)
+[2023.07.07-22.43.19:677][630]AssetCheck: New page: Asset Save: LV_Level1
+[2023.07.07-22.43.19:677][630]LogContentValidation: Display: Validating /Script/Engine.World /Game/LV_Level1.LV_Level1
+[2023.07.07-22.43.20:142][654]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.07-22.43.20:147][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-22.43.20:147][654]PIE: New page: PIE session: LV_Level1 (Jul 7, 2023, 11:43:20 AM)
+[2023.07.07-22.43.20:178][654]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LV_Level1
+[2023.07.07-22.43.20:180][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001865s)
+[2023.07.07-22.43.20:180][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LV_Level1.LV_Level1 to /Game/UEDPIE_0_LV_Level1.LV_Level1 (0.001913s)
+[2023.07.07-22.43.20:180][654]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.07-22.43.20:181][654]LogAIModule: Creating AISystem for world LV_Level1
+[2023.07.07-22.43.20:181][654]LogPlayLevel: PIE: World Init took: (0.001288s)
+[2023.07.07-22.43.20:237][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.07.07-22.43.20:240][654]LogAudio: Display: Creating Audio Device:                 Id: 94, Scope: Unique, Realtime: True
+[2023.07.07-22.43.20:240][654]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-22.43.20:240][654]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-22.43.20:240][654]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-22.43.20:240][654]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-22.43.20:240][654]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.07-22.43.20:240][654]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.07-22.43.20:240][654]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.07-22.43.20:240][654]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-22.43.20:241][654]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-22.43.20:241][654]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-22.43.20:241][654]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-22.43.20:244][654]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.07-22.43.20:285][654]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.07.07-22.43.20:285][654]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-22.43.20:285][654]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-22.43.20:285][654]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-22.43.20:286][654]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=94
+[2023.07.07-22.43.20:286][654]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=94
+[2023.07.07-22.43.20:288][654]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=94
+[2023.07.07-22.43.20:288][654]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=94
+[2023.07.07-22.43.20:288][654]LogInit: FAudioDevice initialized.
+[2023.07.07-22.43.20:288][654]LogAudio: Display: Audio Device (ID: 94) registered with world 'LV_Level1'.
+[2023.07.07-22.43.20:291][654]LogLoad: Game class is 'MainGameMode_C'
+[2023.07.07-22.43.20:292][654]LogWorld: Bringing World /Game/UEDPIE_0_LV_Level1.LV_Level1 up for play (max tick rate 60) at 2023.07.07-16.43.20
+[2023.07.07-22.43.20:292][654]LogWorld: Bringing up level for play took: 0.000794
+[2023.07.07-22.43.20:295][654]LogOnline: OSS: Created online subsystem instance for: :Context_108
+[2023.07.07-22.43.20:297][654]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.07-22.43.20:297][654]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.07-22.43.20:297][654]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.07-22.43.20:298][654]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.07-22.43.20:298][654]PIE: Server logged in
+[2023.07.07-22.43.20:299][654]PIE: Play in editor total start time 0.152 seconds.
+[2023.07.07-22.43.22:768][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-22.43.22:769][663]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LV_Level1
+[2023.07.07-22.43.22:769][663]LogWorld: UWorld::CleanupWorld for LV_Level1, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-22.43.22:769][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.43.22:932][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-22.43.22:941][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.43.23:008][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-22.43.23:009][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94
+[2023.07.07-22.43.23:011][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94
+[2023.07.07-22.43.23:022][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.07.07-22.43.23:137][664]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2023.07.07-22.44.55:265][741]BlueprintLog: New page: Compile BP_Player
+[2023.07.07-22.44.55:358][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.07.07-22.46.25:329][771]BlueprintLog: New page: Compile BP_Player
+[2023.07.07-22.46.25:423][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.07.07-22.46.25:881][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.46.25:960][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/BP_Player" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset" SILENT=true
+[2023.07.07-22.46.25:979][784]LogSavePackage: Moving output files for package: /Game/Developers/BP_Player
+[2023.07.07-22.46.25:979][784]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_Player478BE0504CDF94D44A47F8B0D3883585.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset'
+[2023.07.07-22.46.25:990][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 22.2 sec)
+[2023.07.07-22.46.25:999][784]AssetCheck: New page: Asset Save: BP_Player
+[2023.07.07-22.46.25:999][784]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/BP_Player.BP_Player
+[2023.07.07-22.46.45:422][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.46.45:505][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/BP_Player" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset" SILENT=true
+[2023.07.07-22.46.45:522][949]LogSavePackage: Moving output files for package: /Game/Developers/BP_Player
+[2023.07.07-22.46.45:522][949]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_Player05381CAF43A757D824EB0680B74B2CEE.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset'
+[2023.07.07-22.46.45:536][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 22.3 sec)
+[2023.07.07-22.46.45:546][949]AssetCheck: New page: Asset Save: BP_Player
+[2023.07.07-22.46.45:546][949]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/BP_Player.BP_Player
+[2023.07.07-22.47.17:726][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.47.17:802][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/BP_Player" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset" SILENT=true
+[2023.07.07-22.47.17:818][870]LogSavePackage: Moving output files for package: /Game/Developers/BP_Player
+[2023.07.07-22.47.17:819][870]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_PlayerF588512842AE7524B97A3D955D53868F.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset'
+[2023.07.07-22.47.17:830][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 22.4 sec)
+[2023.07.07-22.47.17:839][870]AssetCheck: New page: Asset Save: BP_Player
+[2023.07.07-22.47.17:839][870]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/BP_Player.BP_Player
+[2023.07.07-22.48.48:385][769]BlueprintLog: New page: Compile BP_Player
+[2023.07.07-22.48.48:475][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.07.07-22.48.48:925][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.48.48:998][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/BP_Player" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset" SILENT=true
+[2023.07.07-22.48.49:014][781]LogSavePackage: Moving output files for package: /Game/Developers/BP_Player
+[2023.07.07-22.48.49:015][781]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_PlayerA233CCCB4FDA142A5789E4BDAA73088C.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/BP_Player.uasset'
+[2023.07.07-22.48.49:027][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 22.5 sec)
+[2023.07.07-22.48.49:035][781]AssetCheck: New page: Asset Save: BP_Player
+[2023.07.07-22.48.49:035][781]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Developers/BP_Player.BP_Player
+[2023.07.07-22.48.56:621][234]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.07-22.48.56:622][234]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.07-22.48.56:622][234]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.07-22.49.00:077][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.49.00:133][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/Input/IA_FlyingBullet" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/Input/IA_FlyingBullet.uasset" SILENT=true
+[2023.07.07-22.49.00:134][428]LogSavePackage: Moving output files for package: /Game/Developers/Input/IA_FlyingBullet
+[2023.07.07-22.49.00:135][428]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/IA_FlyingBulletDB2AA88C424111A7EC7A45A37160CCF5.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/Input/IA_FlyingBullet.uasset'
+[2023.07.07-22.49.00:145][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 22.6 sec)
+[2023.07.07-22.49.00:155][428]AssetCheck: New page: Asset Save: IA_FlyingBullet
+[2023.07.07-22.49.00:155][428]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Developers/Input/IA_FlyingBullet.IA_FlyingBullet
+[2023.07.07-22.49.01:240][475]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.07-22.49.01:247][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-22.49.01:247][475]PIE: New page: PIE session: LV_Level1 (Jul 7, 2023, 11:49:01 AM)
+[2023.07.07-22.49.01:268][475]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LV_Level1
+[2023.07.07-22.49.01:270][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001894s)
+[2023.07.07-22.49.01:270][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LV_Level1.LV_Level1 to /Game/UEDPIE_0_LV_Level1.LV_Level1 (0.001944s)
+[2023.07.07-22.49.01:270][475]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.07-22.49.01:270][475]LogAIModule: Creating AISystem for world LV_Level1
+[2023.07.07-22.49.01:271][475]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2023.07.07-22.49.01:331][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.07.07-22.49.01:337][475]LogAudio: Display: Creating Audio Device:                 Id: 95, Scope: Unique, Realtime: True
+[2023.07.07-22.49.01:337][475]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-22.49.01:337][475]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-22.49.01:337][475]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-22.49.01:337][475]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-22.49.01:337][475]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.07-22.49.01:337][475]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.07-22.49.01:337][475]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.07-22.49.01:337][475]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-22.49.01:338][475]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-22.49.01:338][475]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-22.49.01:338][475]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-22.49.01:341][475]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.07-22.49.01:377][475]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.07.07-22.49.01:377][475]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-22.49.01:377][475]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-22.49.01:377][475]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-22.49.01:378][475]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=95
+[2023.07.07-22.49.01:378][475]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=95
+[2023.07.07-22.49.01:380][475]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=95
+[2023.07.07-22.49.01:380][475]LogInit: FAudioDevice initialized.
+[2023.07.07-22.49.01:380][475]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=95
+[2023.07.07-22.49.01:380][475]LogAudio: Display: Audio Device (ID: 95) registered with world 'LV_Level1'.
+[2023.07.07-22.49.01:384][475]LogLoad: Game class is 'MainGameMode_C'
+[2023.07.07-22.49.01:384][475]LogWorld: Bringing World /Game/UEDPIE_0_LV_Level1.LV_Level1 up for play (max tick rate 60) at 2023.07.07-16.49.01
+[2023.07.07-22.49.01:385][475]LogWorld: Bringing up level for play took: 0.000696
+[2023.07.07-22.49.01:387][475]LogOnline: OSS: Created online subsystem instance for: :Context_109
+[2023.07.07-22.49.01:387][475]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.07-22.49.01:387][475]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.07-22.49.01:387][475]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.07-22.49.01:389][475]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.07-22.49.01:389][475]PIE: Server logged in
+[2023.07.07-22.49.01:389][475]PIE: Play in editor total start time 0.143 seconds.
+[2023.07.07-22.49.14:868][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-22.49.14:869][997]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LV_Level1
+[2023.07.07-22.49.14:869][997]LogWorld: UWorld::CleanupWorld for LV_Level1, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-22.49.14:869][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.49.14:874][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-22.49.14:882][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.49.14:940][997]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.07-22.49.14:941][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=95
+[2023.07.07-22.49.14:943][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=95
+[2023.07.07-22.49.14:949][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-22.49.14:951][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.07.07-22.49.15:062][998]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2023.07.07-22.49.25:563][596]Cmd: TRANSACTION UNDO
+[2023.07.07-22.49.25:570][596]LogEditorTransaction: Undo Clear Children
+[2023.07.07-22.49.39:717][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.49.39:759][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developers/Input/IA_FlyingBullet" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/Input/IA_FlyingBullet.uasset" SILENT=true
+[2023.07.07-22.49.39:761][398]LogSavePackage: Moving output files for package: /Game/Developers/Input/IA_FlyingBullet
+[2023.07.07-22.49.39:762][398]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/IA_FlyingBullet3B630D134D25930CCBE966B6C7685C22.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Developers/Input/IA_FlyingBullet.uasset'
+[2023.07.07-22.49.39:771][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 22.6 sec)
+[2023.07.07-22.49.39:783][398]AssetCheck: New page: Asset Save: IA_FlyingBullet
+[2023.07.07-22.49.39:783][398]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Developers/Input/IA_FlyingBullet.IA_FlyingBullet
+[2023.07.07-22.49.40:999][464]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.07-22.49.41:007][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-22.49.41:007][464]PIE: New page: PIE session: LV_Level1 (Jul 7, 2023, 11:49:41 AM)
+[2023.07.07-22.49.41:007][464]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LV_Level1
+[2023.07.07-22.49.41:008][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001802s)
+[2023.07.07-22.49.41:009][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LV_Level1.LV_Level1 to /Game/UEDPIE_0_LV_Level1.LV_Level1 (0.001840s)
+[2023.07.07-22.49.41:009][464]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.07-22.49.41:009][464]LogAIModule: Creating AISystem for world LV_Level1
+[2023.07.07-22.49.41:009][464]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2023.07.07-22.49.41:066][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.07.07-22.49.41:071][464]LogAudio: Display: Creating Audio Device:                 Id: 96, Scope: Unique, Realtime: True
+[2023.07.07-22.49.41:071][464]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-22.49.41:071][464]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-22.49.41:071][464]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-22.49.41:071][464]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-22.49.41:071][464]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.07-22.49.41:071][464]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.07-22.49.41:071][464]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.07-22.49.41:071][464]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-22.49.41:072][464]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-22.49.41:072][464]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-22.49.41:072][464]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-22.49.41:074][464]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.07-22.49.41:108][464]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.07.07-22.49.41:108][464]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-22.49.41:108][464]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-22.49.41:108][464]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-22.49.41:110][464]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=96
+[2023.07.07-22.49.41:110][464]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=96
+[2023.07.07-22.49.41:112][464]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=96
+[2023.07.07-22.49.41:112][464]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=96
+[2023.07.07-22.49.41:112][464]LogInit: FAudioDevice initialized.
+[2023.07.07-22.49.41:112][464]LogAudio: Display: Audio Device (ID: 96) registered with world 'LV_Level1'.
+[2023.07.07-22.49.41:117][464]LogLoad: Game class is 'MainGameMode_C'
+[2023.07.07-22.49.41:118][464]LogWorld: Bringing World /Game/UEDPIE_0_LV_Level1.LV_Level1 up for play (max tick rate 60) at 2023.07.07-16.49.41
+[2023.07.07-22.49.41:118][464]LogWorld: Bringing up level for play took: 0.000659
+[2023.07.07-22.49.41:121][464]LogOnline: OSS: Created online subsystem instance for: :Context_110
+[2023.07.07-22.49.41:121][464]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.07-22.49.41:121][464]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.07-22.49.41:121][464]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.07-22.49.41:122][464]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.07-22.49.41:122][464]PIE: Server logged in
+[2023.07.07-22.49.41:123][464]PIE: Play in editor total start time 0.116 seconds.
+[2023.07.07-22.49.50:518][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-22.49.50:518][863]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LV_Level1
+[2023.07.07-22.49.50:518][863]LogWorld: UWorld::CleanupWorld for LV_Level1, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-22.49.50:519][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.49.50:522][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-22.49.50:529][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-22.49.50:584][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-22.49.50:585][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=96
+[2023.07.07-22.49.50:587][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=96
+[2023.07.07-22.49.50:596][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.07.07-22.49.50:646][864]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2023.07.07-22.49.51:332][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-22.49.51:379][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LV_Level1" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/LV_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.07-22.49.51:436][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.07.07-22.49.51:445][901]LogSavePackage: Moving output files for package: /Game/LV_Level1
+[2023.07.07-22.49.51:445][901]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/LV_Level143FA60344803EE646C8E5A89E3A52E7D.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/LV_Level1.umap'
+[2023.07.07-22.49.51:453][901]LogFileHelpers: Saving map 'LV_Level1' took 0.074
+[2023.07.07-22.49.51:464][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 22.8 sec)
+[2023.07.07-22.49.51:471][901]AssetCheck: New page: Asset Save: LV_Level1
+[2023.07.07-22.49.51:471][901]LogContentValidation: Display: Validating /Script/Engine.World /Game/LV_Level1.LV_Level1
