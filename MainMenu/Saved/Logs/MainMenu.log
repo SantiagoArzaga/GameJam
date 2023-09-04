@@ -7344,3 +7344,26 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.04-17.37.06:764][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
 [2023.09.04-17.37.06:789][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
 [2023.09.04-17.37.06:851][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2023.09.04-17.40.05:254][865]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.04-17.40.05:304][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_BulletPlayer" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/BP_BulletPlayer.uasset" SILENT=true
+[2023.09.04-17.40.05:389][865]LogSavePackage: Moving output files for package: /Game/BP_BulletPlayer
+[2023.09.04-17.40.05:390][865]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_BulletPlayerA9B876D840A7F9F43A20BFBCC3955BD9.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/BP_BulletPlayer.uasset'
+[2023.09.04-17.40.05:398][865]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 2.28 sec)
+[2023.09.04-17.40.05:416][865]AssetCheck: New page: Asset Save: BP_BulletPlayer
+[2023.09.04-17.40.05:416][865]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_BulletPlayer.BP_BulletPlayer
+[2023.09.04-17.40.09:535][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.04-17.40.09:590][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Santiago_Level" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Santiago_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.04-17.40.09:648][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.09.04-17.40.09:931][ 94]LogSavePackage: Moving output files for package: /Game/Santiago_Level
+[2023.09.04-17.40.09:932][ 94]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/Santiago_Level5AB643A649E530CB4C6916A16E166A87.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/Santiago_Level.umap'
+[2023.09.04-17.40.09:959][ 94]LogFileHelpers: Saving map 'Santiago_Level' took 0.370
+[2023.09.04-17.40.09:969][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave took 434 ms (total: 2.71 sec)
+[2023.09.04-17.40.09:994][ 94]AssetCheck: New page: Asset Save: Santiago_Level
+[2023.09.04-17.40.09:994][ 94]LogContentValidation: Display: Validating /Script/Engine.World /Game/Santiago_Level.Santiago_Level
+[2023.09.04-17.40.12:037][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.04-17.40.12:080][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_BulletPlayer" FILE="C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/BP_BulletPlayer.uasset" SILENT=true
+[2023.09.04-17.40.12:164][202]LogSavePackage: Moving output files for package: /Game/BP_BulletPlayer
+[2023.09.04-17.40.12:165][202]LogSavePackage: Moving 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Saved/BP_BulletPlayerC2A486E649601C27C01582BB8B4857B7.tmp' to 'C:/Users/santi/OneDrive/Documents/GitHub/GameJam/MainMenu/Content/BP_BulletPlayer.uasset'
+[2023.09.04-17.40.12:174][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 2.85 sec)
+[2023.09.04-17.40.12:188][202]AssetCheck: New page: Asset Save: BP_BulletPlayer
+[2023.09.04-17.40.12:188][202]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_BulletPlayer.BP_BulletPlayer
